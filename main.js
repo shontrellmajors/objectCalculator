@@ -24,7 +24,7 @@ sub() {
 };
 
 calculator.read();
-alert(calculator.sum());
-alert(calculator.mul());
-alert(calculator.div());
-alert(calculator.sub());
+alert( calculator.sum() );
+alert( calculator.mul() );
+alert( calculator.div() );
+alert( calculator.sub() );
